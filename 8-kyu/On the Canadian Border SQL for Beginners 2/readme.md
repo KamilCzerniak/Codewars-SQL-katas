@@ -14,4 +14,4 @@ NOTE: Your solution should use pure SQL. Ruby is used within the test cases to d
 
 This kata is part of a collection of SQL challenges for beginners. You can take the rest of the challenges [here!](https://www.codewars.com/collections/sql-for-beginners)  
 
-The link to this [kata](https://www.codewars.com/kata/on-the-canadian-border-sql-for-beginners-number-2/train/sql)
+The link to this [kata](https://www.codewars.com/kata/on-the-canadian-border-sql-for-beginners-number-2/sql)
