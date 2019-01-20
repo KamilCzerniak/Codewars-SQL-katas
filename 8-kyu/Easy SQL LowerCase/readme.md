@@ -10,4 +10,4 @@ demographics table schema
 
 you need to return the same table where all letters are lowercase in the race column.  
 
-The link to this [kata](https://www.codewars.com/kata/easy-sql-lowercase/train/sql)
+The link to this [kata](https://www.codewars.com/kata/easy-sql-lowercase/sql)
