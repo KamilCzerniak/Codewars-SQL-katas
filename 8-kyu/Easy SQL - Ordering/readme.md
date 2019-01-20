@@ -10,4 +10,4 @@ companies table schema
 
 Solution should use pure SQL. Ruby is only used in test cases.  
 
-The link to this [kata](https://www.codewars.com/kata/easy-sql-ordering/train/sql)
+The link to this [kata](https://www.codewars.com/kata/easy-sql-ordering/sql)
