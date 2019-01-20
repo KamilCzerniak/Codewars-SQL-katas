@@ -14,4 +14,4 @@ Column|Data Type|Size|Sample
 ---
 Your solution should contain only SQL.  
 
-The link to this [kata](https://www.codewars.com/kata/sql-grasshopper-select-columns/train/sql)
+The link to this [kata](https://www.codewars.com/kata/sql-grasshopper-select-columns/sql)
