@@ -12,4 +12,4 @@ select table schema
 
 >NOTE: Your solution should use pure SQL. Ruby is used within the test cases to do the actual testing.  
 
-The link to this [kata](https://www.codewars.com/kata/sql-basics-simple-distinct/train/sql)
+The link to this [kata](https://www.codewars.com/kata/sql-basics-simple-distinct/sql)
